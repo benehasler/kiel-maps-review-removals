@@ -206,6 +206,8 @@ Die Google-Maps-Suche ist kein vollständiger Datenbankexport. Für bessere Abde
 Für einen strengeren „nur Restaurants“-Datensatz nur `--queries restaurant` verwenden und `output/places.csv` anschließend manuell filtern.
 
 TODO: add `croque, eisdiele, donut`
+optionale settings für abends ausgehen? also `--queries` nutzen maybe und dann `bar, pub, cocktail`
+
 
 
 
